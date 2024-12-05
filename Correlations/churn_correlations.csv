@@ -1,0 +1,24 @@
+Correlations of Features with Churn ;;
+Feature 1;Feature 2;Correlation
+MonthlyCharges_per_Age_log;Churn;0,212
+MonthlyCharges_Per_AverageViewingDuration_log;Churn;0,169
+SupportTicketsPerMonth_Per_Age_log;Churn;0,160
+MonthlyCharges_per_Age;Churn;0,138
+SupportTicketsPerMonth_Per_AverageViewingDuration_log;Churn;0,132
+MonthlyCharges_Per_AverageViewingDuration;Churn;0,129
+TotalCharges_Per_SupportTicketsPerMonth;Churn;-0,105
+ViewingHours_Per_SupportTicketsPerMonth;Churn;-0,107
+ContentDownloads_Per_SupportTicketsPerMonth;Churn;-0,107
+ViewingHoursPerWeek;Churn;-0,129
+ContentDownloadsPerMonth;Churn;-0,130
+ContentDownloads_Per_SupportTicketsPerMonth_log;Churn;-0,143
+ViewingHours_Per_SupportTicketsPerMonth_log;Churn;-0,144
+ViewingHours_Per_MonthlyCharges;Churn;-0,146
+AverageViewingDuration;Churn;-0,147
+ViewingHours_Per_MonthlyCharges_log;Churn;-0,151
+LoyalUser;Churn;-0,153
+TotalCharges_Per_SupportTicketsPerMonth_log;Churn;-0,154
+ContentDownloads_Per_MonthlyCharges_log;Churn;-0,155
+ViewingHoursContentDownloadsPerMonth_bin_encoded;Churn;-0,170
+TotalCharges_Per_MonthlyCharges_log;Churn;-0,181
+TotalCharges_Per_MonthlyCharges;Churn;-0,193

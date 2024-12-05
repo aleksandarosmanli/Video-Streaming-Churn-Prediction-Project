@@ -1,0 +1,11 @@
+Feature 1,Feature 2,Correlation
+AccountAge,TotalCharges_Per_MonthlyCharges,1.0
+MonthlyCharges,TotalCharges_Per_AccountAge,1.0000000000000002
+TotalCharges,AccountAgeMonthlyCharges,1.0000000000000002
+TotalCharges,AccountAgeTotalCharges,0.9608362416224194
+AccountAgeMonthlyCharges,TotalCharges,1.0000000000000002
+AccountAgeMonthlyCharges,AccountAgeTotalCharges,0.9608362416224192
+AccountAgeTotalCharges,TotalCharges,0.9608362416224194
+AccountAgeTotalCharges,AccountAgeMonthlyCharges,0.9608362416224192
+TotalCharges_Per_AccountAge,MonthlyCharges,1.0000000000000002
+TotalCharges_Per_MonthlyCharges,AccountAge,1.0

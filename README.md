@@ -43,4 +43,5 @@ I conducted tests on three different tree-based ML models:
 3. CatBoost, and
 4. HistGradientBoost
 
-I also conducted tests on ensemble 
+Also, Soft Voting Ensemble and Stacking Ensemble Model of LightGBM, XGBoost, CatBoost and Gradient Boosting Models were used to combine the predictive power of the individual models.
+
